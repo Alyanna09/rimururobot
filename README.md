@@ -29,7 +29,7 @@ Now go to https://dashboard.heroku.com/apps/(app-name)/resources ( Replace (app-
 REMEMBER: Turn on worker dyno (Don't worry It's free :D) & Webhook
 Now send the bot /start, If it doesn't respond go to https://dashboard.heroku.com/apps/(app-name)/settings and remove webhook and port.
 ```
-
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Alyanna09/rimururobot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 </details>  
 <details>
   <summary>Steps to self Host!! </summary>
